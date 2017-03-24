@@ -1,12 +1,11 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-date:   2016-02-12 17:50:00
+title:  "Welcome to github pages!"
+date:   2016-03-23 17:50:00
 categories: main
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+This is my first page. My github pages is here to show my projects.
 
 Jekyll also offers powerful support for code snippets:
 
