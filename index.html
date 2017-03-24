@@ -4,10 +4,11 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <h1>Projects</h1>
-  <ul class="posts">
     {% for project in site.posts %}
-      <li>{{ project.title }}</li>
+     <h2 class="project-tagline">{{ project.title }}</h2>
+	  <a href="#" class="btn">View on GitHub</a>
+	  <a href="#" class="btn">Download .zip</a>
+	  <a href="#" class="btn">Download .tar.gz</a>
     {% endfor %}
   </ul>
 </div>
